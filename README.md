@@ -28,8 +28,32 @@ bright_tv_viewership: 10,000 transaction records capturing sessions, duration, a
 
 💡 Business Insights & Recommendations
 
-1. User & Usage Trends:
+User & Usage Trends
 
-Prime Time Dominance: Preliminary data suggests a heavy concentration of viewership between 17:00 and 21:00 (SAST).
+The Afternoon Paradox: While Prime Time has the most individual views, the Afternoon drives the highest total engagement (36% of all viewing minutes). Afternoon viewers are "stickier" and watch for longer durations.
 
-Demographic Split: Analysis covers 9 South African provinces, allowing for hyper-local content targeting.
+The Monday Slump: Monday is the weakest day for engagement, contributing only 8% of weekly watch time—a 137% drop from Saturday peaks.
+
+Geographic Concentration: 65% of traffic is centralized in Gauteng, Western Cape, and KZN. Gauteng alone accounts for 36.5% of the total 
+market.
+
+Content & Demographic Drivers
+
+Sports as the Anchor: Live sports (Cricket World Cup and SuperSport) command 48% of total platform watch time, acting as the primary retention engine.
+
+Young Adult Core: 57% of users are aged 20-35, while the audience is heavily skewed toward males (87%).
+
+Snackable vs. Long-form: Music channels (Channel O/Trace TV) drive high volume/frequency, but significantly lower watch time compared to sports.
+
+🚀 Strategic Recommendations
+
+Boost Weekday Engagement: Launch "Monday Night Premieres" or CVM loyalty rewards to flatten the weekly consumption curve and reduce the Monday slump.
+
+Monetize Afternoon Viewing: Shift premium ad inventory to the 12:00–16:00 window to capitalize on the highest duration-per-view metrics.
+
+Close the Gender Gap: Diversify the content library with female-centric lifestyle and drama programming to unlock the remaining 90% of the potential female market.
+
+Regional Expansion: Deploy localized acquisition campaigns in high-growth secondary provinces like Mpumalanga and Limpopo to reduce reliance on the Gauteng hub.
+
+Secure the Core: Optimize server infrastructure for Friday/Saturday evening surges to eliminate "Break in Transmission" events during peak traffic.
+
