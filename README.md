@@ -1,12 +1,12 @@
 BrightTV: Viewership Analytics & Growth Strategy
 
-📌 Project Overview:
+1. Project Overview:
 
 The CEO of BrightTV (a fictional streaming/broadcast provider) set an objective to aggressively grow the subscriber base for the current financial year. This project involves analyzing user profiles and viewership transactions to provide data-driven insights for the Customer Value Management (CVM) team.
 
 The goal is to understand who is watching, when they are watching, and what factors drive consumption to improve retention and acquisition strategies.
 
-🛠️ Data Analytics Skills Demonstrated:
+2. Data Analytics Skills Demonstrated:
 
 Data Transformation: Converting UTC timestamps to SAST (Africa/Johannesburg) for localized behavioral analysis.
 
@@ -18,7 +18,7 @@ Relational Mapping: Joining large viewership transaction tables (10,000+ rows) w
 
 Business Intelligence: Translating raw SQL outputs into insights regarding Prime Time consumption and demographic-specific content recommendations.
 
-📂 Dataset & Architecture
+3. Dataset & Architecture
 
 The analysis was performed on two primary tables:
 
@@ -26,7 +26,7 @@ bright_tv_user_profiles: Demographic data (Gender, Race, Age, Province) for 5,37
 
 bright_tv_viewership: 10,000 transaction records capturing sessions, duration, and channel IDs.
 
-💡 Business Insights & Recommendations
+4. Business Insights 
 
 User & Usage Trends
 
@@ -45,7 +45,7 @@ Young Adult Core: 57% of users are aged 20-35, while the audience is heavily ske
 
 Snackable vs. Long-form: Music channels (Channel O/Trace TV) drive high volume/frequency, but significantly lower watch time compared to sports.
 
-🚀 Strategic Recommendations
+5. Strategic Recommendations
 
 Boost Weekday Engagement: Launch "Monday Night Premieres" or CVM loyalty rewards to flatten the weekly consumption curve and reduce the Monday slump.
 
