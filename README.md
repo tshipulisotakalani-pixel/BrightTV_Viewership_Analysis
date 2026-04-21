@@ -28,7 +28,7 @@ bright_tv_viewership: 10,000 transaction records capturing sessions, duration, a
 
 4. Business Insights 
 
-User & Usage Trends
+4.1 User & Usage Trends
 
 The Afternoon Paradox: While Prime Time has the most individual views, the Afternoon drives the highest total engagement (36% of all viewing minutes). Afternoon viewers are "stickier" and watch for longer durations.
 
@@ -37,7 +37,7 @@ The Monday Slump: Monday is the weakest day for engagement, contributing only 8%
 Geographic Concentration: 65% of traffic is centralized in Gauteng, Western Cape, and KZN. Gauteng alone accounts for 36.5% of the total 
 market.
 
-Content & Demographic Drivers
+4.2 Content & Demographic Drivers
 
 Sports as the Anchor: Live sports (Cricket World Cup and SuperSport) command 48% of total platform watch time, acting as the primary retention engine.
 
